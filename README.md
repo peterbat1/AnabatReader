@@ -1,4 +1,4 @@
-# AnabatReader
+# AnabatTools
 Some R-code to read legacy Anabat data files
 
 AnabatTools: an R script to read, display and analyse binary files produced by
