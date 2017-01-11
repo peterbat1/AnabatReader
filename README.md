@@ -18,8 +18,8 @@ GNU General Public License for more details.
 See http://www.gnu.org/licenses/ for a copy of the license.
  
 Development of an Anabat data file reader was undertaken by
-Peter D. Wilson between 11 and 17 December 2013. I can be contacted by
-email: peterbat1_at_tpg.com.au (replace _at_ with the ASCII "at" symbol, of course.)
+Peter D. Wilson between 11 and 17 December 2013, and a major revision completed
+10 January 2017.
 
 This R script implements and extends earlier software (now lost in unfortunate
 circumstances) written by me in Borland Delphi between 2003 and 2011.
