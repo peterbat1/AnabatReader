@@ -28,10 +28,10 @@ This code (like its lost predecessor) is based on the comprehensive notes on
 Anabat file formats and how to read them, including example C++ code, provided
 by Chris Corben on his website:
      http://users.lmi.net/corben/fileform.htm#Anabat%20File%20Formats
-(last accessed 5 May 2014).
+(last accessed 12 January 2017).
 
 ==
 At present the raw source-code is available here but will soon be replaced with an R package.
 
 Peter D. Wilson
-11 January 2017
+12 January 2017
