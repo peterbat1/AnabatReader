@@ -30,8 +30,5 @@ by Chris Corben on his website:
      http://users.lmi.net/corben/fileform.htm#Anabat%20File%20Formats
 (last accessed 12 January 2017).
 
-==
-At present the raw source-code is available here but will soon be replaced with an R package.
-
 Peter D. Wilson
 12 January 2017
