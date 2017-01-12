@@ -1,7 +1,7 @@
 # AnabatTools
 Some R-code to read legacy Anabat data files
 
-AnabatTools: an R script to read, display and analyse binary files produced by
+AnabatTools: an R pacakge to read, display and analyse binary files produced by
 the Anabat frequency-division bat recording system.
    Copyright (C) 2013, 2017  Peter D. Wilson
 
