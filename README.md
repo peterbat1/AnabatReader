@@ -21,7 +21,7 @@ Development of an Anabat data file reader was undertaken by
 Peter D. Wilson between 11 and 17 December 2013, and a major revision completed
 10 January 2017.
 
-This R script implements and extends earlier software (now lost in unfortunate
+This R package implements and extends earlier software (now lost in unfortunate
 circumstances) written by me in Borland Delphi between 2003 and 2011.
 
 This code (like its lost predecessor) is based on the comprehensive notes on
